@@ -3,7 +3,7 @@
   set -ex
 
   API_KEY='bb39c2e017373838'
-  INTEGRATIONS_API_URL='https://3000-qualitiai-qualitiapi-s6023lxntbr.ws-us51.gitpod.io'
+  INTEGRATIONS_API_URL='https://3000-qualitiai-qualitiapi-51d2c33ux5c.ws-us51.gitpod.io'
   PROJECT_ID='3'
   CLIENT_ID='536b5c096d90ee084c3adaeab9f86cf6'
   SCOPES=['"ViewTestResults"','"ViewAutomationHistory"']
